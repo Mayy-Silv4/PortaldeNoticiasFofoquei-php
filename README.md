@@ -60,7 +60,7 @@ O **Fofoquei** é um portal de notícias estilo fofoca desenvolvido em PHP, com 
 
 ### 1. Clonar o repositório
 
-```
+
 bash
 git clone https://github.com/seuusuario/fofoquei.git
 
@@ -110,7 +110,7 @@ O modo escuro:
 Pode ser ativado pelo botão 🌙
 Salva a preferência no navegador (localStorage)
 Aplica automaticamente ao entrar no site
-```
+
 
 ```
 📁 Estrutura do projeto
@@ -134,13 +134,16 @@ login.php
 cadastro.php
 verNoticia.php
 script.js
-🚀 Melhorias futuras
-🔎 Sistema de busca
-❤️ Curtidas em notícias
-💬 Comentários
-📊 Painel administrativo completo
-📱 Versão mobile/app
+
 ```
+
+**🚀 Melhorias futuras**
+-🔎 Sistema de busca
+-❤️ Curtidas em notícias
+-💬 Comentários
+-📊 Painel administrativo completo
+-📱 Versão mobile/app
+
 👨‍💻 Autor
 
 Desenvolvido por **Mayara Maciel**
