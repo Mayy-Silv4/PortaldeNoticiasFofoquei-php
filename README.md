@@ -138,11 +138,12 @@ script.js
 ```
 
 **🚀 Melhorias futuras**
--🔎 Sistema de busca
--❤️ Curtidas em notícias
--💬 Comentários
--📊 Painel administrativo completo
--📱 Versão mobile/app
+
+- 🔎 Sistema de busca
+- ❤️ Curtidas em notícias
+- 💬 Comentários
+- 📊 Painel administrativo completo
+- 📱 Versão mobile/app
 
 👨‍💻 Autor
 
