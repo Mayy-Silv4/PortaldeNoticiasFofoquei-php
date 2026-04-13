@@ -60,7 +60,8 @@ O **Fofoquei** é um portal de notícias estilo fofoca desenvolvido em PHP, com 
 
 ### 1. Clonar o repositório
 
-```bash
+```
+bash
 git clone https://github.com/seuusuario/fofoquei.git
 
 ### 2. Criar banco de dados
@@ -109,6 +110,7 @@ O modo escuro:
 Pode ser ativado pelo botão 🌙
 Salva a preferência no navegador (localStorage)
 Aplica automaticamente ao entrar no site
+```
 
 ```
 📁 Estrutura do projeto
@@ -141,4 +143,4 @@ script.js
 ```
 👨‍💻 Autor
 
-Desenvolvido por Mayara Maciel
+Desenvolvido por **Mayara Maciel**
